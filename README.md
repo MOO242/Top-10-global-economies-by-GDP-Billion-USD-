@@ -7,6 +7,7 @@ Project Overview
 
 ✅ Scraped GDP data from a live Wikipedia page
 ✅ Cleaned and converted GDP values from millions to billions
+
 ✅ Exported the dataset to CSV
 ✅ Visualized the top 10 economies with a bar chart
 
